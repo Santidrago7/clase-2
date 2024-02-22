@@ -1,0 +1,29 @@
+*{margin: 25px;}
+body
+{
+    background-color: yellowgreen;
+    font-family: monospace;
+    text-align: center;
+}
+h1
+{
+    padding: 10px;
+    border: 15px;
+    border-style: solid;
+    border-radius: 15px;
+    color: royalblue;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: italic;
+}
+p
+{
+    color: crimson;
+    background-color: aqua;
+}
+img
+{
+    width: 45%;
+    height: 45%;
+}
